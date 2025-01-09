@@ -3,14 +3,14 @@
 This small React app generates a QR code for any URL.
 
 ## Installing
-To install the project, clone or download the source code from GitHub, and then run `npm install`.
+To install the project, clone or download the source and then run `npm install`.
 
 ## package.json Scripts
 The app was created using Vite, so there are four `package.json` scripts you can run:
 * `npm run dev` - run a local server and view the development version of the app in a browser.
 * `npm run build` - build a production version of the app to deploy to a website.
-* 'npm run lint' - lint the project source files using `eslint`.
-* 'npm run preview' - serve the production version of the app locally.
+* `npm run lint` - lint the project source files using `eslint`.
+* `npm run preview` - serve the production version of the app locally.
 
 ## Deploying to a Website
 If you plan on deploying the app to a website, there are two things you must do:

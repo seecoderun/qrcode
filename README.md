@@ -2,6 +2,9 @@
 
 This small React app generates a QR code for any URL.
 
+## Online Demo
+You can find a working demo of the project [here](https://scrapnet.space/projects/qrcode).
+
 ## Installing
 To install the project, clone or download the source and then run `npm install`.
 
